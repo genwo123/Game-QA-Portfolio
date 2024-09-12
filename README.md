@@ -8,7 +8,7 @@
 
 ## 프로젝트 목록
 
-### 1. [Go! Go! 20원즈 QA 활동](https://github.com/genwo123/Game-QA-Portfolio/tree/main/GoGo_20원즈)
+### 1. [Go! Go! 20원즈 QA 활동](https://github.com/genwo123/Game-QA-Portfolio/tree/master/GoGo_20%EC%9B%90%EC%A6%88)
 - 수박게임을 기반으로 한 팬게임의 기능 및 UI 테스트 진행
 
 ### 2. [다잉라이트 리브랜딩 QA 활동](https://github.com/genwo123/Game-QA-Portfolio/tree/main/DyingLight_리브랜딩)
