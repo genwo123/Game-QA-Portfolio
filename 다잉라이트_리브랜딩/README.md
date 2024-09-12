@@ -45,4 +45,4 @@ Dying Light는 파쿠르 시스템과 생존 요소가 결합된 독특한 좀�
 
 ### PDF 링크
 
-[여기를 클릭하여 PDF 다운로드](링크 경로)
+[여기를 클릭하여 PDF 다운로드](https://github.com/user-attachments/files/16972857/default.pdf)
