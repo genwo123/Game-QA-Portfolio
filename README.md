@@ -11,7 +11,7 @@
 ### 1. [Go! Go! 20원즈 QA 활동](https://github.com/genwo123/Game-QA-Portfolio/tree/master/GoGo_20%EC%9B%90%EC%A6%88)
 - 수박게임을 기반으로 한 팬게임의 기능 및 UI 테스트 진행
 
-### 2. [다잉라이트 리브랜딩 QA 활동](https://github.com/genwo123/Game-QA-Portfolio/tree/main/DyingLight_리브랜딩)
+### 2. [다잉라이트 리브랜딩 QA 활동](https://github.com/genwo123/Game-QA-Portfolio/tree/master/%EB%8B%A4%EC%9E%89%EB%9D%BC%EC%9D%B4%ED%8A%B8_%EB%A6%AC%EB%B8%8C%EB%9E%9C%EB%94%A9)
 - Dying Light 게임의 시스템 분석과 리브랜딩 전략 제안
 
 ---
