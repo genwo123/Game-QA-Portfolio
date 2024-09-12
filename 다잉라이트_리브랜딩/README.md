@@ -1,8 +1,9 @@
 # 다잉라이트 리브랜딩
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/81d2aa5f-bf20-47c2-a677-cacd8ce4489d" alt="Dying Light 배너" style="width:80%;"/>
+  <img src="https://github.com/user-attachments/assets/286e7049-44ea-4eb5-926a-3f681339ddb8" alt="Dying Light 배너" style="width:80%;"/>
 </div>
+
 
 ### **Dying Light: 게임 분석 및 리브랜딩 제안**
 
