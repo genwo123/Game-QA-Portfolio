@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cd563b78-4008-4743-a0c5-cbb99112a024" alt="GoGo 20원즈 배너" style="width:80%;"/>
+</div>
 # 수박게임을 기반으로 한 팬게임 '20원즈' QA 분석
 
 ---
