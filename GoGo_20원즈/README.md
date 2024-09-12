@@ -129,31 +129,37 @@
 
 ---
 
-### 버그 목록
 
 ### 버그 목록
 
 | 버그 ID | 버그 이름/요약 | 버그 발생 상황 | 버그 발생 조건 | 사진/동영상 | 상태 |
 | --- | --- | --- | --- | --- | --- |
-| UIUX#001 | 가이드북 UI 오류 | 좌우 이동 키가 A, D로 설정되어 있으나 UI상에서 W, S로 잘못 표기됨 | 가이드북 UI에서만 발생 | ![사진 첨부 1](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/d03628b1-ecd8-4da4-bb32-90af59709a49/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%801.jpg) | 수정 전 |
-| FUNC#002 | 구슬 결합 시 오류 | 구슬 결합 시 플레이 범위를 벗어남 | 기존 구슬이 기울여져 있을 때 다음 단계로 결합하게 되면 일정 부분이 튀어나가게 됨 | ![사진 첨부 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/02050a78-3f7a-496d-a967-8570c3b19480/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%802.jpg), ![영상 첨부 3](영상 링크) | 수정 전 |
-| FUNC#003 | 게임 오버 시 연타 에러 1 | 게임 오버 시 연타하여 배치 시도하면 구슬이 떨리며 자잘한 버그 발생 | 게임 오버 시 연타하여 구슬 배치 시도 | ![사진 첨부 3](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/93f27af7-ac1e-401e-af9d-30d6f5b36943/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%804.jpg) | 수정 전 |
+| UIUX#001 | 가이드북 UI 오류 | 좌우 이동 키가 A, D로 설정되어 있으나 UI상에서 W, S로 잘못 표기됨 | 가이드북 UI에서만 발생 | ![사진 첨부 1](https://github.com/user-attachments/assets/019b1ba7-dc33-401f-8163-8570f54cd29f) | 수정 전 |
+| FUNC#002 | 구슬 결합 시 오류 | 구슬 결합 시 플레이 범위를 벗어남 | 기존 구슬이 기울여져 있을 때 다음 단계로 결합하게 되면 일정 부분이 튀어나가게 됨 | ![사진 첨부 2](https://github.com/user-attachments/assets/90c687f7-d7fe-49a1-8853-9bdbbb262dbd), ![영상 첨부 3](영상 링크) | 수정 전 |
+| FUNC#003 | 게임 오버 시 연타 에러 1 | 게임 오버 시 연타하여 배치 시도하면 구슬이 떨리며 자잘한 버그 발생 | 게임 오버 시 연타하여 구슬 배치 시도 | ![사진 첨부 3](https://github.com/user-attachments/assets/18cbf896-1267-46c5-b441-386260055460) | 수정 전 |
 | FUNC#004 | 게임 오버 시 연타 에러 2 | 게임 오버 상태에서도 연타로 마지막 구슬을 배치할 수 있으며, 점수가 올라감 | 게임 오버 상태에서 연타로 마지막 구슬 배치 시도 | ![영상 첨부 1](영상 링크) | 수정 전 |
 | FUNC#005 | 특정 조건에서 비정상적인 게임 종료 | 구슬이 선에 특정적으로 걸치면 새로운 구슬이 생성되지 않으며 UI 상에서는 게임 종료가 되지 않음 | 구슬이 선에 걸치는 상황에서 발생. (일정 확률로 발생해서 더욱 조사가 필요함) | ![영상 첨부 2](영상 링크) | 수정 전 |
-| FUNC#006 | 낮은 단계의 구슬 결합 오류 | 반복해서 낮은 단계의 구슬이 최종 구슬까지 결합되는 버그 발생 | 찾아내지 못함 | ![사진 첨부 4](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/e0edde17-2adf-4d83-9a50-0ca1c343e60e/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%803.jpg) | 수정 전 |
+| FUNC#006 | 낮은 단계의 구슬 결합 오류 | 반복해서 낮은 단계의 구슬이 최종 구슬까지 결합되는 버그 발생 | 찾아내지 못함 | ![사진 첨부 4](https://github.com/user-attachments/assets/100e8927-d8a3-48ee-9e19-65a51b04f7c2) | 수정 전 |
+
+---
+
+### 이미지 첨부
+
+![사진첨부1](https://github.com/user-attachments/assets/019b1ba7-dc33-401f-8163-8570f54cd29f)  
+![사진첨부2](https://github.com/user-attachments/assets/90c687f7-d7fe-49a1-8853-9bdbbb262dbd)  
+![사진첨부3](https://github.com/user-attachments/assets/18cbf896-1267-46c5-b441-386260055460)  
+![사진첨부4](https://github.com/user-attachments/assets/100e8927-d8a3-48ee-9e19-65a51b04f7c2)
 
 
 ---
 
 ### 이미지 첨부
 
-![사진 첨부 1](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/d03628b1-ecd8-4da4-bb32-90af59709a49/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%801.jpg)
+![사진첨부1](https://github.com/user-attachments/assets/019b1ba7-dc33-401f-8163-8570f54cd29f)
+![사진첨부2](https://github.com/user-attachments/assets/90c687f7-d7fe-49a1-8853-9bdbbb262dbd)
+![사진첨부3](https://github.com/user-attachments/assets/18cbf896-1267-46c5-b441-386260055460)
+![사진첨부4](https://github.com/user-attachments/assets/100e8927-d8a3-48ee-9e19-65a51b04f7c2)
 
-![사진 첨부 2](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/02050a78-3f7a-496d-a967-8570c3b19480/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%802.jpg)
-
-![사진 첨부 3](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/93f27af7-ac1e-401e-af9d-30d6f5b36943/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%804.jpg)
-
-![사진 첨부 4](https://prod-files-secure.s3.us-west-2.amazonaws.com/55d3edee-a021-48f2-8cab-8a49149fc45c/e0edde17-2adf-4d83-9a50-0ca1c343e60e/%EC%82%AC%EC%A7%84%EC%B2%A8%EB%B6%803.jpg)
 
 
 
