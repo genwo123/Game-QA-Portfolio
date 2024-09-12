@@ -153,15 +153,5 @@
 
 ---
 
-### 이미지 첨부
-
-![사진첨부1](https://github.com/user-attachments/assets/019b1ba7-dc33-401f-8163-8570f54cd29f)
-![사진첨부2](https://github.com/user-attachments/assets/90c687f7-d7fe-49a1-8853-9bdbbb262dbd)
-![사진첨부3](https://github.com/user-attachments/assets/18cbf896-1267-46c5-b441-386260055460)
-![사진첨부4](https://github.com/user-attachments/assets/100e8927-d8a3-48ee-9e19-65a51b04f7c2)
-
-
-
-
 ### 동영상 첨부
 동영상 첨부는 현재 구글 드라이브 정리 중이라 차후에 올리겠습니다
